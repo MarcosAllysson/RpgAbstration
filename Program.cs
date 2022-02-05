@@ -24,6 +24,7 @@ namespace RpgAbstration
             {
                 Console.WriteLine(hero);
             }
+
         }
     }
 }
